@@ -1,0 +1,6 @@
+.list-company {
+    overflow: scroll;
+    height: 100vh;
+    position: fixed;
+    margin-top: 10px;
+}
